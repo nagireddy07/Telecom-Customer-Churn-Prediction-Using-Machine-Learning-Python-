@@ -1,0 +1,1 @@
+Customer churn prediction is a mini project which helps in finding the customers who are churn.In this first dataset is divided into training and testing dataset in which training dataset is used to train the model and testing dataset is used to test the model.In this project we used different algorithms which give output with different accuracy
